@@ -4,13 +4,13 @@
 
 -----
 
-##### 姓名：黄东鹏							##### 民族：汉族
+##### 姓名：黄东鹏							民族：汉族
 
-##### 电话：132-6265-2575      ##### 邮箱：bitamin.kim@gmail.com
+##### 电话：132-6265-2575      邮箱：bitamin.kim@gmail.com
 
-##### 籍贯：广东               ##### 出生年月：1994.09
+##### 籍贯：广东               出生年月：1994.09
 
-##### 性别：男	               ##### Github：[@BitaminKim](https://github.com/BitaminKim)
+##### 性别：男	               Github：[@BitaminKim](https://github.com/BitaminKim)
 
 ##### 博客页：[http://Bitamin.kim (基于Hexo搭建运行于Github)](http://Bitamin.kim)  
 
